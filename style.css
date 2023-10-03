@@ -1,0 +1,32 @@
+html {
+    margin: 0;
+}
+.center{
+    /* height: 100px; */
+    width: 50%;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 100px;
+    text-align: center;
+}
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+span{
+    display: block;
+}
